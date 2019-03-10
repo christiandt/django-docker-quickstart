@@ -1,5 +1,6 @@
 default:
 	$(MAKE) install
+	$(MAKE) superuser
 
 install:
 	./setup.sh
