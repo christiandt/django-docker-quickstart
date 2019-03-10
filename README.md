@@ -5,7 +5,7 @@ A template for getting quickly started with django using docker
 ## Get started using make, docker and docker compose
 run the following commands:
 
-	make
+	make superuser
 
 You will be asked to input a superuser, email and password you can use to access the `/admin` admin interface.
 
